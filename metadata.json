@@ -1,0 +1,6 @@
+{
+  "name": "Анализатор на Обекти",
+  "description": "Интерактивна уеб система за компютърно зрение за сегментиране, броене, морфологичен анализ и класификация на малки обекти в изображения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
